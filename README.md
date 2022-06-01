@@ -3,7 +3,7 @@
 Este repositório contém um aplicativo Python Streamlit para análise de dados anuais dos jogadores da NBA.
 
 ## Deployed App
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/glecio-l/nba-streamlitapp/main/NbaApp.py)
 
 
 ## Repository Structure
